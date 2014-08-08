@@ -1,0 +1,5 @@
+Drag and drop the bitcoin folder and the networks.py into your p2pool directory. That's it!
+
+Now magcoin can be called with --net just like any other coin!
+
+Default web-static is that made by johndoe75.
